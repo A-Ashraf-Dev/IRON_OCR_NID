@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRON OCR Project", "IRON OCR Project\IRON OCR Project.csproj", "{B771FAD5-8729-4963-A4A4-C335A37CBB74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B771FAD5-8729-4963-A4A4-C335A37CBB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B771FAD5-8729-4963-A4A4-C335A37CBB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B771FAD5-8729-4963-A4A4-C335A37CBB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B771FAD5-8729-4963-A4A4-C335A37CBB74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ED08A5A-2365-4163-97E1-A5A8521D8D53}
+	EndGlobalSection
+EndGlobal
